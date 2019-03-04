@@ -17,8 +17,8 @@
   <distributionManagement>
 
 		<repository>
-			<id>Maven-release</id>
-			<url>http://localhost:8081/nexus/content/repositories/Maven-release/</url>
+			<id>arrelease</id>
+			<url>http://localhost:8081/nexus/content/repositories/arrelease/</url>
 		</repository>
 		<snapshotRepository>
 			<id>arsnap</id>
